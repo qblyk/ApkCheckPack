@@ -6,6 +6,11 @@
 
 工具只是辅助，新方式和厂商不断出现，特征查找方式可能遗漏，切勿完全依赖
 
+执行命令：.\ApkCheckPack_windows_amd64.exe -s=false -f innhome-app-android-3.0.6-Android20230817091932_306_jiagu_15_dingyuehao_sign.apk
+
+![image](https://github.com/qblyk/ApkCheckPack/assets/13203177/217c582d-d7d4-4bd2-9467-7b8dbecdbdbd)
+
+
 由于变动较大，工具更名为ApkCheckPack，大概是加固规则最全的开源工具：）
 
 将能收集到的加固特征汇总整理，支持40个厂商的加固检测，保存在apkpackdata.json文件，有需求自取
